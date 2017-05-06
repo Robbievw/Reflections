@@ -1,2 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a .git file (hidden) that contains the metadata of the saved files
+Je moet initatiliseren om deze metadata aan te maken.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is een kunstimatig gebied. het laat zien welke besatanden geeleteerd zijn voor de volgende commit.
+Hierdoor heb je keuzevrijehdi tav welke bestanden je commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+je kan iets uploaden naar de staing area en vervolgens met git diff --staged kijken  hoe de bestanden verschillen van de laatste commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches zijn handig als je meerdere versies wilt ontwikkelen. Branches zijn overzichtelijk
+
+How do the diagrams help you visualize the branch structure?
+je ziet snel de geschiedenis en hoe de bracnhes lopen
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro: sneller en eenvoudiger, kan wel mis gaan
+Handmatig: meer werk, amar meer controle
