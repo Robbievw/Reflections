@@ -1,0 +1,39 @@
+Met behulp van command line kun je sneller en gemakkelijekr code vergelijken
+Ik heb geleerd om via de command prompt een map aan te maken: mkdir
+Ik heb geleerd om twee bestandjes te vergelijken in dezelfde director met FC command
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Snel en eenvoudig de verschillen per command line inzichtelijk
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Eenvoudig om verschillen te tracken en eventuele fouten ongedaan te maken
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    voordeel zelf kiezen: je overschrijft niet per ongeluk een onjuiste versie.
+    Je kiest zelf een logische grootte van wijzigingen
+    Je kan een stukje tekst bijschrijven dat aangeeft wat er gewijzigd is
+    Nadeel: je kan vergeten te saven als je het handmatig doet
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Handig om tegelijk te saven: minder hadelingen
+
+How can you use the commands git log and git diff to view the history of files?
+
+    geen idee
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Makkelijker om terug te vallen op eerdere versies of specifieke wijzigingen door te voeren
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Git voor version control
