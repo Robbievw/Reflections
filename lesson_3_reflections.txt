@@ -1,1 +1,16 @@
 When would you want to use a remote repository rather than keeping all your work local?
+Delen met anderen, back-up, werken vanaf meerdere computers
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Je wilt aan je eigen versie werken en niet automatisch de versie van iemand anders overnemen
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks: clone van repository op Github naar eigen Github
+Clones: Kopieren van repository van Github naa rlocal of van local naar local
+Branches: vertakking/ andere versies van de bestanden
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Houd het overzichtelijk. Je weet welke wijzigingen je gemaakt hebt t.o.v. de laatste remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Versies handmatig opslaan en handmatig de wijzigingen doorvoeren
